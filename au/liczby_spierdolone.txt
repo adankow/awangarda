@@ -1,0 +1,48 @@
+413
+
+4 listopada 2021, 11:16 (Ignacy)
+
+Liczby spierdolone
+
+(...) Mamy więc liczby rzeczywiste zamykające się zaledwie na jednej osi
+idącej od -∞ do +∞, jak również liczby nierzeczywiste, które wymykają
+się poza ten schemat, i tak na przykład liczby zespolone przedstawiamy
+już nie w jednym wymiarze (oś liniowa), ale w dwóch (układ
+współrzędnych). Każda taka liczba zespolona ma swoje miejsce na
+płaszczyźnie i na przykład liczba 7+3i będzie położona w tym punkcie
+układu współrzędnych, w którym x=7 (jest to rzeczywista część tej
+liczby), natomiast y=3 (część nierzeczywista). "i" w takim zapisie
+oznacza √-1, co w zbiorze liczb rzeczywistych nie miałoby żadnego sensu,
+ale to nie pierwszy taki przypadek. W liczbach zespolonych bowiem taki
+przykładowy pierwiastek czwartego stopnia z 1 ma wcale nie jedno
+rozwiązanie, ale aż cztery (sic!) i są to {1,i,-1,-i}. Wejdźmy jednak
+jeszcze głębiej w te nieoczywistości. Tak jak liczby rzeczywiste
+zawierają się na jednej osi, a zespolone na płaszczyźnie, tak już
+kwaterniony są kompletnie trójwymiarowe. Dzięki temu możemy zauważyć
+pewną zależność, pozwolę sobie powiedzieć "dokładania kolejnych
+wymiarów" do naszego spektrum. I właśnie dlatego prezentuję państwu
+dzisiaj moje nowe odkrycie, zbiór liczb zawierających się w zbiorze
+liczb nieoczywistych, nazwałem je - liczby spierdolone! Zawierają się
+one aż w 7 wymiarach! Skąd, spytacie, znajomość tak wielu wymiarów?
+Otóż, wielu z was pewnie sądzi, że czwartym wymiarem po długości,
+wysokości i szerokości jest czas. Nic bardziej mylnego! Przy tworzeniu
+liczb spierdolonych posłużyłem się ostatnimi odkryciami naukowców z kina
+7D w Międzyzdrojach. Według ich rewolucyjnych badań czwarty wymiar to
+wcale nie czas, ale bryza wody! Idąc dalej mamy piąty, szósty i siódmy
+wymiar, którymi kolejno są bąbelki, smyranie po nogach oraz dotyk na
+plecach i w siedzisku! Liczby spierdolone istnieją w przestrzeni
+wszystkich tych siedmiu wymiarów! Czy to nie wspaniałe?! Od czego więc
+by tu zacząć...? Może od tego prostego równania, które stworzyłem za
+pomocą liczb spierdolonych. Jest ono uproszczoną wersją leku na raka i
+brzmi mniej więcej, jakoś tak:
+cos(π/n)×[hop(n^k)/|∆|•√-cmok(144000)+[💦]•([🌊]/sin[💧])]•~k' gdzie k'
+jest ciągiem n-tego stopnia (dla którego bąbelki są równe 7 przy
+zachowaniu pierwszego prawa Bryzy Wody) wypierwiastkowanym przez ctg
+argumentu x dla wartości funkcji cyklometrycznej siedziska przeciętnego
+konsumenta elektronicznej rozrywki o wzorze... Kurwa zapomniałem... No,
+w każdym razie, jak widać na tym przypadku, użyteczność liczb
+spierdolonych jest niepodważalna. Od początku kiedy czytają państwo ten
+tekst mogą wyczuć państwo delikatne kropelki porannej bryzy na swoim
+siedzisku oraz plecach, a także czułe smyranie po nogach, wiedzą więc
+państwo, że to co tu prezentuję to nie żadna ściema! Liczby spierdolone
+są jak samo spierdolenie się - odważne, ale i niezaprzeczalne! (...)
